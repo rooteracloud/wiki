@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+![Image](https://raw.githubusercontent.com/rooteracloud/desktop-app/gh-pages/logo.png)
 
-You can use the [editor on GitHub](https://github.com/rooteracloud/wiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Selamat Datang
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Akun Pengguna
+Setelah memiliki akun dan memilih paket berlangganan, silahkan login untuk dapat mengikuti panduan penggunaan aplikasi ini.
 
-### Markdown
+### Registrasi Akun
+jika belum memiliki akun, anda dapat membuat akun terlebih dahulu pada halaman [Registrasi](https://cloud.rootera.co.id/register) atau dapat menginstall aplikasi desktop sesuai dengan release yang diinginkan pada [Halaman Release Aplikasi](https://github.com/rooteracloud/desktop-app/releases) dan melakukan registrasi.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Login Akun
+Setelah memiliki akun, anda dapat login pada halaman [Registrasi](https://cloud.rootera.co.id/login) atau dapat menginstall aplikasi desktop sesuai dengan release yang diinginkan pada [Halaman Release Aplikasi](https://github.com/rooteracloud/desktop-app/releases) dan melakukan proses login menggunakan username dan password yang valid.
 
-```markdown
-Syntax highlighted code block
+## Module Aplikasi
+Pada aplikasi Rootera Cloud ERP terdapat beberapa modul yang dapat anda gunakan diantaranya :
+- Module Financials / Accounting
+- Module Sales / Penjualan
+- Module Purchasing / Pembelian
+- Module Warehouse & Inventory
+- Module Business Partner
+- Module Resource Management
+- Module Production
+- Module Logistics
+- Module Human Resources
+- Module Project Management
 
-# Header 1
-## Header 2
-### Header 3
+## Panduan Penggunaan
 
-- Bulleted
-- List
+### Module Financials / Accounting 
+Module Financials merupakan module yang khusus digunakan untuk mengelola sistem akuntansi / keuangan usaha anda.
 
-1. Numbered
-2. List
+### Module Sales / Penjualan 
+Module Sales merupakan module yang khusus digunakan untuk mengelola sistem penjualan dan pengelolaan order pada penjualan anda.
 
-**Bold** and _Italic_ and `Code` text
+### Module Purchasing / Pembelian
 
-[Link](url) and ![Image](src)
-```
+### Module Warehouse & Inventory
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Module Business Partner
 
-### Jekyll Themes
+### Module Resource Management
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rooteracloud/wiki/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Module Production
 
-### Support or Contact
+### Module Logistics
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Module Human Resources
+
+### Module Project Management
+
+### Module Purchasing / Pembelian 
+
+## Bantuan
+Jika mengalami kesulitan dalam proses instalasi atau terkait penggunaan aplikasi, silahkan hubungi [Kontak Support](https://support.github.com/contact) kami pada jam kerja.
+Butuh Referensi Untuk mempelajari penggunaan fitur aplikasi? klik [dokumentasi]() aplikasi kami.
