@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/rooteracloud/wiki/gh-pages/logo-light.png)
+![Image](https://raw.githubusercontent.com/rooteracloud/desktop-app/gh-pages/logo.png)
 
 ## Selamat Datang
 
